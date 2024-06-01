@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jumah Musah\\Desktop\\318assignments\\triangle-type-identifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jumah Musah\\Desktop\\318assignments\\ticket-price-calculator\\ticket-price-calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F83523-8E33-4CD4-A51D-0AFFD164C788}|triangle-type-identifier\\triangle-type-identifier.csproj|c:\\users\\jumah musah\\desktop\\318assignments\\triangle-type-identifier\\triangle-type-identifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F83523-8E33-4CD4-A51D-0AFFD164C788}|triangle-type-identifier\\triangle-type-identifier.csproj|solutionrelative:triangle-type-identifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jumah Musah\\Desktop\\318assignments\\ticket-price-calculator\\ticket-price-calculator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ticket-price-calculator\\ticket-price-calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Jumah Musah\\Desktop\\318assignments\\ticket-price-calculator\\ticket-price-calculator\\Program.cs",
+              "RelativeToolTip": "..\\ticket-price-calculator\\ticket-price-calculator\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:27:10.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jumah Musah\\Desktop\\318assignments\\triangle-type-identifier\\triangle-type-identifier\\Program.cs",
+              "RelativeDocumentMoniker": "triangle-type-identifier\\Program.cs",
+              "ToolTip": "C:\\Users\\Jumah Musah\\Desktop\\318assignments\\triangle-type-identifier\\triangle-type-identifier\\Program.cs",
+              "RelativeToolTip": "triangle-type-identifier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:03:51.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
