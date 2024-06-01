@@ -1,0 +1,14 @@
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.exe
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.deps.json
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.runtimeconfig.json
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.dll
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.pdb
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.AssemblyInfoInputs.cache
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.AssemblyInfo.cs
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.dll
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\refint\grade-calculator.dll
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.pdb
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.genruntimeconfig.cache
+C:\Users\Jumah Musah\Desktop\318assignments\grade-calculator\grade-calculator\obj\Debug\net8.0\ref\grade-calculator.dll

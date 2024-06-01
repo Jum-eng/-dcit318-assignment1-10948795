@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade-calculator", "grade-calculator\grade-calculator.csproj", "{B7669505-2CBE-4A4B-B3D8-CE16BA7E6DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7669505-2CBE-4A4B-B3D8-CE16BA7E6DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7669505-2CBE-4A4B-B3D8-CE16BA7E6DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7669505-2CBE-4A4B-B3D8-CE16BA7E6DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7669505-2CBE-4A4B-B3D8-CE16BA7E6DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91DC7E04-DE48-48DF-B811-00FD9A80E1FD}
+	EndGlobalSection
+EndGlobal
